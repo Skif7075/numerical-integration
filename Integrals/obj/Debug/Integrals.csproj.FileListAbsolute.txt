@@ -1,0 +1,9 @@
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\bin\Debug\Integrals.exe.config
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\bin\Debug\Integrals.exe
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\bin\Debug\Integrals.pdb
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\obj\Debug\Integrals.csprojResolveAssemblyReference.cache
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\obj\Debug\Integrals.exe
+c:\users\константин\documents\visual studio 2015\Projects\Integrals\Integrals\obj\Debug\Integrals.pdb
+E:\Visual Studio 2015\Projects\Integrals\Integrals\bin\Debug\Integrals.exe.config
+E:\Visual Studio 2015\Projects\Integrals\Integrals\obj\Debug\Integrals.exe
+E:\Visual Studio 2015\Projects\Integrals\Integrals\obj\Debug\Integrals.pdb
